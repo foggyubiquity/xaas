@@ -1,0 +1,6 @@
+name: xaas
+title: XaaS
+version: master
+nav:
+- modules/ROOT/nav.adoc
+- modules/kubernetes/nav.adoc
