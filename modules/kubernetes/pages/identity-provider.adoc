@@ -1,0 +1,14 @@
+= Identity Providers
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://github.com/planetlabs/kubehook <= simple webhook
+https://github.com/int128/kubelogin <= oidc login
+
+https://github.com/appscode/guard <= lightweight, LDAP & oauth
+
+App space vs Cluster Admin space, separate systems
+
+https://confluence.atlassian.com/kb/how-to-write-ldap-search-filters-792496933.html
+
+
+

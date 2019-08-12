@@ -1,0 +1,8 @@
+= Logging
+Keidrych Anton-Oates <me@keidrych.com>
+
+https://medium.com/@Oskarr3/feeding-loki-with-fluentd-4e9647d23ab9
+https://github.com/grafana/loki
+https://github.com/wercker/stern
+https://github.com/boz/kail
+
