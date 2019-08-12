@@ -1,16 +1,1 @@
 * xref:index.adoc[About]
-
-//.xref:nixos/index.adoc[NixOs]
-
-.xref:nixos/index.adoc[1. NixOS]
-
-.xref:continuous-integration/index.adoc[2. Continuous Integration]
-
-.xref:containers/index.adoc[3. Containers]
-* xref:containers/signing-trust.adoc[Signing & Trust]
-
-.xref:continuous-deployment/index.adoc[4. Continuous Deployment]
-
-//.https://www.meetup.com/The-Foggy-Cloud/[Meetup Group (Brisbane)]
-* http://www.keidrych.com[🔗 Author Info]
-
